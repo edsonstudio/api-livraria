@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-livraria", "api-livraria\api-livraria.csproj", "{3164475C-4EA2-41A3-9B3A-569DB7A3133C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3164475C-4EA2-41A3-9B3A-569DB7A3133C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3164475C-4EA2-41A3-9B3A-569DB7A3133C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3164475C-4EA2-41A3-9B3A-569DB7A3133C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3164475C-4EA2-41A3-9B3A-569DB7A3133C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A844AC3-A80D-4186-ADD3-36E01B01F645}
+	EndGlobalSection
+EndGlobal
